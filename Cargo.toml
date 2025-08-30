@@ -1,0 +1,7 @@
+[package]
+name = "rust_project_structure_demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+criterion = "0.7.0"
